@@ -10,6 +10,7 @@ public class HelloJava {
 			sum += i;
 			System.out.println("第"+i+"次循环的s值是"+sum);
 		}
+		System.out.println("循环完毕");
 	}
 	
 }
